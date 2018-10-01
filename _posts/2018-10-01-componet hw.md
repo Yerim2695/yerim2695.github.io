@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Component-hw"
+title:  "Component hw"
 date:   2018-10-01 11:34:00 +0900
 categories: jekyll update
 ---
