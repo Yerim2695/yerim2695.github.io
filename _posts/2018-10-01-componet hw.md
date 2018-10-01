@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Component hw"
-date:   2018-10-01 11:34:00 +0900
-categories: jekyll update
----
+
 
 # Component의 구성방식
 ### 내가 이해한 바로는 "상하가 연결되어 있는 템플릿?"
